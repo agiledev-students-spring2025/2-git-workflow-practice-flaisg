@@ -1,2 +1,4 @@
-# Git Practice
-A simple project to practice a few git/github workflows.  Replace the contents of this file with the contents indicated in the [instructions](./instructions.md).
+https://arxiv.org/pdf/2501.12948
+
+
+What is interesting is the methods they used to get chatGPT similar performance for esentially a far less cost amount than what OpenAI tried to do. They used a distillation method which is differnt from OpenAI. This shorten the differnce between the models with the creation of the R1 model from deepSeek. There is an arguemennt of deepseek stealing OpenAI. But rather than stealing I believe that the term building upon is more accurate. In the real world there will always be competitiors trying to out compete you no matter what. In this case Deepseek is trying to outcompete in price for esentially the same product. In the future, there will be rise to more AI companies(there already are) and before the release of true AGI(Artifical General Intelligence), there will most likely be a competition for customers on who can have a lower cost for the customer for esentially the same LLM model. 
